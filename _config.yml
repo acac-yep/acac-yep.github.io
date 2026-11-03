@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # default / air / sunrise / mint / dirt / contrast
-title                    : "王子涵 · 学习资料与论文笔记"
+title                    : "王子涵"
 title_separator          : "·"
 name                     : &name "王子涵"
 description              : &description "中国科学技术大学计算机学院 · 推荐系统与生成式推荐方向 · 考试速通资料与论文精读笔记"   # 侧边栏与社交卡片用的站点描述
