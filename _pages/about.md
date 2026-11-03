@@ -7,31 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-我是王子涵，中科大计算机学院大三，看推荐系统，最近主要在生成式推荐这条线上。
+王子涵，中国科学技术大学计算机科学与技术学院 2024 级本科生。
 
-这个站放两样东西：考前抱佛脚的速通资料，和读完论文之后整理的笔记。笔记写得比较啰嗦，因为过几个月我自己也要回来翻；写得细一点，顺着还能往下查。
+关注推荐系统与生成式推荐；近期在整理 LLM agent 参与工业推荐迭代的相关工作。
 
-## 从这里进
+## 页面
 
 **[资料库 →](https://acac-yep.github.io/notes/)**{: .btn .btn--primary}
 
-课程速通、复习清单、实验踩坑，按科目分。考试前一天基本只翻这里。
+课程速通、复习清单、实验记录。
 
 **[论文笔记 →](https://acac-yep.github.io/notes/papers/)**{: .btn .btn--primary}
 
-推荐系统的论文精读。每篇都标了数字在哪一页哪张表，也写了哪里我不太信。
+推荐系统方向论文精读，标注数字出处与结论边界。
 
-## 在看的几件事
+## 在读
 
-- 生成式推荐：Semantic ID、OneRec 这一系列，以及 CoT 推理放到推荐里到底有没有用
-- Agent 做实验：提假设、写代码、跑 A/B、归因，哪一步能真交给模型
-- 评测：离线指标涨了，线上一定涨吗
+- 生成式推荐：Semantic ID、OneRec 系列、CoT 推理在推荐中的应用
+- Agent 自动实验：假设生成、代码实现、A/B 与归因
+- 评测：离线代理指标与线上指标的一致性
 
-## 最近
+## 已完成
 
-九篇「自进化推荐」的论文刚过完一遍——AgentX、AgentX-Model、Auto-RecSys、Astar、NOVA、EvoRec、Self-EvolveRec、RecHarness、Self-Evolving YouTube，笔记陆续放到资料库里了。
-
-接下来想把 CS336 的复习资料补完。
+- 9 篇自进化推荐方向论文精读（AgentX、AgentX-Model、Auto-RecSys、Astar、NOVA、EvoRec、Self-EvolveRec、RecHarness、Self-Evolving YouTube）
 
 ## 联系
 
